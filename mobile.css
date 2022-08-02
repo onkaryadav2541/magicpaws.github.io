@@ -1,0 +1,64 @@
+@media only screen and (max-width : 700px){
+
+
+.veterian{
+	height: 120px;
+	width: auto;
+	text-align: center;
+	
+}
+.veteriantwo{
+	height: 120px;
+	width: auto;
+	text-align: center;
+}
+
+.parallax{
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    margin: 10px;
+    background-image:url("https://images.unsplash.com/photo-1583337130417-3346a1be7dee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGV0c3xlbnwwfHwwfHw%3D&w=1000&q=80")
+}
+
+.missionpara{
+	margin-left: 20px;
+	font-size: 14px;
+}
+#one{
+width: auto;
+height: 100px;
+}
+h3{
+	padding-top: 2px;
+}
+
+.dr{
+	font-size: 10px;
+}
+.dro{
+	font-size: 10px;
+}
+
+.btn{
+	font-size: 10px;
+
+}
+
+#lowercon{
+	margin-top: 38px;
+}
+
+li a{
+	font-size:10px ;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 13px 20px;
+	text-decoration: none;
+	padding-left: 10px;
+}
+
+}
